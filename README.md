@@ -2,5 +2,11 @@
 
 
 
-This repository demonstrates the Gitflow workflow, feature branching, merging, and conflict resolution.
+This project demonstrates Gitflow branching and merge conflict resolution.
+
+
+
+\## Development Status
+
+Changes made in the feature branch.
 
